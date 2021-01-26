@@ -19,13 +19,11 @@ This application allows a user to search for a movie or show, then have it saved
 # Installation
 
 No installation needed to run application if viewed live through [Heroku](https://quiet-beach-99514.herokuapp.com/)
-
- <br>
+<br>
 if repo is cloned <code>npm i</code>
 
 ## Usage
-Easy and fast way to find your favoite movies and shows. <br>
-Just enter your username and start searching!
+Easy and fast way to find your favoite movies and shows. Just enter your username and start searching!
 
 ## Screenshot
 
