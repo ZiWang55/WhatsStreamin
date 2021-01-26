@@ -5,7 +5,7 @@
 # Table of Contents
 
  * [Description](#Description)
-  * [Installation](#Insallation)
+  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Screenshot](#Screenshot)
   * [Contributors](#Contributors)
@@ -18,18 +18,24 @@ This application allows a user to search for a movie or show, then have it saved
 
 # Installation
 
-No installation needed to run application, can be viewed live through [Heroku](https://quiet-beach-99514.herokuapp.com/)
+No installation needed to run application if viewed live through [Heroku](https://quiet-beach-99514.herokuapp.com/)
 
  <br>
-* <code>npm i</code>
+if repo is cloned <code>npm i</code>
 
 ## Usage
+Easy and fast way to find your favoite movies and shows. <br>
+Just enter your username and start searching!
 
 ## Screenshot
 
 View live through Heroku [here](https://quiet-beach-99514.herokuapp.com/).
 ![demo](https://github.com/ZiWang55/WhatsStreamin/blob/main/public/assets/img/WhatsStreamin.gif?raw=true)
 
+
+
+# License
+APACHE 2.0
 
 # Contributors
 GitHubs for all contributors to this project.
