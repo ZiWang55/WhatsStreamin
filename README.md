@@ -23,7 +23,15 @@ No installation needed to run application if viewed live through [Heroku](https:
 if repo is cloned <code>npm i</code>
 
 ## Usage
-Easy and fast way to find your favoite movies and shows. Just enter your username and start searching!
+- node Js
+- npm
+- mysql
+- bootstrap
+- html
+- css
+- Javascript
+- handlebar
+- jquery
 
 ## Screenshot
 
