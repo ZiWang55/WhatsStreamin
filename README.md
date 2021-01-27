@@ -41,7 +41,7 @@ GitHubs for all contributors to this project.
 [James Leitschuh](https://github.com/jamesleitschuh02)<br>
 [Zi Wang](https://github.com/ZiWang55)<br>
 [Nathan Larson](https://github.com/ironicminer)<br>
-[Idil ](??)<br>
+[Idil ](https://github.com/shaie001) <br>
 [Roxette Banos](https://github.com/chavelyo3)
 
 # Questions
