@@ -14,7 +14,7 @@
 
 # Description
 
-This application allows a user to search for a movie or show, then have it saved on their watchlist, and will tell you what streaming service its on. You can also add/delete users.
+This application allows a user to search for a movie or show, then have it saved on their watchlist, and will tell you what streaming service its on (whether it's on Netflix, Amazon prime or hulu etc..) You can also add/delete users.
 
 # Installation
 
